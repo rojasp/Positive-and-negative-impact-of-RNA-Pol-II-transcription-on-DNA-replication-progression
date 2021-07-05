@@ -23,11 +23,12 @@ Description: This documentation is principally written to support the M&M publis
     III. Python 
     IV.  All the file should be contained in the same directory
     
-********************
-*Complete workflow *
-********************
-    Please, download the complete layout (workflow.pdf) to follow the whole process 
+    
 **************
+*Workflow*
+**************
+   Please, download the complete layout (workflow.pdf) to follow the whole process 
+
 ***********************	
 *Workflow for mRNA seq*
 ***********************
