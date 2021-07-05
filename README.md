@@ -10,8 +10,9 @@ Patricia Rojas (Leader) - University of Birmingham
 Giovanni Guglielmi      - University of Melbourne, University of Birmingham
 		
 Description: This documentation is principally written to support the M&M published in the paper 
-             “Positive and negative impact of RNA Pol II transcription on DNA replication 
-			 progression”. This spcripts and pipeline users should be able to reporcue the results. 
+             “Positive and negative impact of RNA Pol II transcription on DNA replication  progression”. 
+	     This spcripts and pipeline users should be able to reporcue the results. 
+	     
        
 
 **************
@@ -21,6 +22,12 @@ Description: This documentation is principally written to support the M&M publis
     II.  The R Project for Statistical Computing
     III. Python 
     IV.  All the file should be contained in the same directory
+    
+********************
+*Complete workflow *
+********************
+    Please, download the complete layout (workflow.pdf) to follow the whole process 
+**************
 ***********************	
 *Workflow for mRNA seq*
 ***********************
